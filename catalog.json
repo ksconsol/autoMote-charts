@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "packages": [
+    {
+      "id": "osm-riviera-v1",
+      "name": "Cannes–Sanremo",
+      "version": "2026-10-29T22:46:20.774761+00:00",
+      "bounds": [
+        6.85,
+        43.25,
+        7.95,
+        43.95
+      ],
+      "url": "https://github.com/ksconsol/autoMote-charts/releases/download/riviera-20261029/cannes-sanremo-20261029.amchart",
+      "bytes": 2518824,
+      "sha256": "6f527bb8f6186a0da914e6ad332a03cd33d3c5e5ac9ada374f0b52b7b1f7a106"
+    }
+  ]
+}
